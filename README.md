@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![github](figures/myRepo.PNG)
+![github](figures/myRepo2.PNG)
 ## Installation
 
 Bu projeyi klonlamak için 
